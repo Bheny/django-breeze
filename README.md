@@ -132,4 +132,4 @@ A very big thanks to [Inertia.js Team](https://github.com/inertiajs) for [Inerti
 
 ## License
 
-Laravel Breeze is open-sourced software licensed under the [MIT license](LICENSE.md).
+Django Breeze is open-sourced software licensed under the [MIT license](LICENSE.md).
